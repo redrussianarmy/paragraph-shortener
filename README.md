@@ -1,2 +1,2 @@
 # paragraph-shortener
-It shortens the paragraph according to the given keywords
+Shortens the paragraph depending on to given keywords
