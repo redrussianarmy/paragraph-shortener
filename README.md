@@ -21,6 +21,3 @@ from shortener import ParagraphShortener
 shortener = ParagraphShortener()
 result = shortener.run(keyword, paragraph)
 ```
-
-## License
-MIT
